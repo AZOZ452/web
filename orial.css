@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+<meta charset="UTF-8">
+<title>من نحن | ORIAL</title>
+
+<style>
+
+body{
+margin:0;
+background:#050505;
+color:white;
+font-family:Tahoma,Arial;
+text-align:center;
+}
+
+
+.container{
+padding:60px 10%;
+}
+
+
+.logo{
+width:150px;
+height:150px;
+border:4px solid #d4af37;
+border-left-color:transparent;
+border-radius:50%;
+margin:auto;
+
+display:flex;
+align-items:center;
+justify-content:center;
+
+font-size:70px;
+font-weight:bold;
+color:#d4af37;
+
+box-shadow:0 0 30px gold;
+}
+
+
+h1,h2{
+color:#d4af37;
+}
+
+
+h1{
+font-size:55px;
+}
+
+
+h2{
+font-size:40px;
+margin-top:60px;
+}
+
+
+p{
+font-size:24px;
+line-height:2;
+color:#ddd;
+}
+
+
+
+.box{
+
+background:#111;
+border:1px solid #d4af37;
+border-radius:25px;
+padding:35px;
+margin:30px auto;
+max-width:800px;
+
+box-shadow:0 0 25px #4d3900;
+
+}
+
+
+.back{
+
+display:inline-block;
+margin-top:40px;
+padding:15px 40px;
+background:#d4af37;
+color:black;
+border-radius:40px;
+text-decoration:none;
+font-size:22px;
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+
+<div class="logo">
+R
+</div>
+
+
+<h1>
+OREAL COMPANY
+</h1>
+
+
+<div class="box">
+
+<h2>
+من نحن
+</h2>
+
+<p>
+نحن شركة اوريال، شركة طموحة تسعى لتكون
+من أفضل الشركات في مجال الأعمال والابتكار.
+نقدم حلولاً مميزة تجمع بين الجودة والإبداع
+ونعمل على بناء مستقبل مليء بالإنجازات.
+</p>
+
+</div>
+
+
+
+<div class="box">
+
+<h2>
+رؤيتنا
+</h2>
+
+<p>
+أن تصبح شركة أريال علامة عالمية رائدة،
+تقدم أفكاراً جديدة وتساهم في تطوير
+الأعمال وصناعة المستقبل.
+</p>
+
+</div>
+
+
+
+<div class="box">
+
+<h2>
+رسالتنا
+</h2>
+
+<p>
+تقديم خدمات احترافية تعتمد على الإبداع
+والجودة والثقة لتحقيق أفضل النتائج.
+</p>
+
+</div>
+
+
+<a class="back" href="index.html">
+العودة للرئيسية
+</a>
+
+
+</div>
+
+
+</body>
+
+</html>
+.next-page {
+    width:100%;
+    text-align:center;
+    margin-top:30px;
+}
+.map{
+    width:100%;
+    height:250px;
+    background:#1b1b1b;
+    border:2px solid #d4af37;
+    border-radius:40px 15px 40px 15px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:#d4af37;
+    font-size:30px;
+    margin-top:20px;
+}
+
+.back-btn{
+    display:inline-block;
+    background:#d4af37;
+    color:#000;
+    padding:15px 40px;
+    border-radius:15px;
+    text-decoration:none;
+    font-size:22px;
+    font-weight:bold;
+}
